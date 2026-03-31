@@ -2,7 +2,7 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Docker Pulls](https://img.shields.io/docker/pulls/roastslav/quickdrop?logo=docker&style=flat)](https://hub.docker.com/r/roastslav/quickdrop)
 
-1111111222222https://github.com/wusancode/quickdrop.git
+11111112222
 # QuickDrop
 1111111111111111
 QuickDrop is an easy-to-use file sharing application that allows users to upload files without an account,
